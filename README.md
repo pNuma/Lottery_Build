@@ -1,1 +1,2 @@
 # Lottery_Build
+Lotteryリポジトリから直接pagesに公開する方法が分からなかったので、別にbuildしたリポジトリを作成しました。
