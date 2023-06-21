@@ -6,3 +6,5 @@ https://github.com/pNuma/Lottery
 C#
 Unity 2021.3.1
 visual studio 2022
+
+WebGLInputパッケージを使用させていただいています
